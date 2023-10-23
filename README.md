@@ -1,7 +1,7 @@
 
 <div>
   <div align="left">
-    Hi, I`m FouHamster. 
+    <text>Hi, I`m FouHamster.</text> 
   </div>
   <div align="right">
     
