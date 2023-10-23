@@ -1,11 +1,8 @@
 
 
   <div align="left">
-    <text>Hi, I`m FouHamster.</text> 
+    <text>Привет, я FouHamster. Hi, I`m FouHamster. こんにちは! 私はFouHamster。</text> 
   </div>
-  <div align="right">
+  <img align="right" src="https://count.getloli.com/get/@FouHamster?theme=rule34">
     
-    ![FouHamster](https://count.getloli.com/get/@FouHamster?theme=rule34)
-    
-  </div>
 
